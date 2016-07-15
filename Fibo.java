@@ -1,5 +1,6 @@
 public class Fibo {
 
+
 	public static void main(String[] args) {
 
 		int sum=1, sum2=0, total=0;
